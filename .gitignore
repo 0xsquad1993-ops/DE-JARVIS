@@ -1,0 +1,16 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+data/bronze/
+data/silver/
+data/gold/
+data/metadata/
+logs/
+
+data/raw/jarvis_big_data_test_1m.csv
+data/raw/ecommerce_transactions_1m.csv

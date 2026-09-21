@@ -1,0 +1,13 @@
+transaction_id,customer_id,product,category,city,quantity,amount,transaction_date
+1,C001,Laptop,Electronics,Chennai,2,100000,2026-01-05
+2,C002,Phone,Electronics,Bangalore,3,60000,2026-01-15
+3,C003,Laptop,Electronics,Chennai,1,50000,2026-02-10
+4,C004,Chair,Furniture,Hyderabad,5,40000,2026-02-20
+5,C005,Phone,Electronics,Bangalore,4,80000,2026-03-12
+6,C006,Laptop,Electronics,Chennai,3,150000,2026-03-25
+7,C007,Chair,Furniture,Hyderabad,2,16000,2026-04-08
+8,C008,Phone,Electronics,Bangalore,5,100000,2026-04-18
+9,C009,Laptop,Electronics,Chennai,2,100000,2026-05-06
+10,C010,Chair,Furniture,Hyderabad,6,48000,2026-05-22
+11,C011,Phone,Electronics,Bangalore,6,120000,2026-06-14
+12,C012,Laptop,Electronics,Chennai,4,200000,2026-06-28

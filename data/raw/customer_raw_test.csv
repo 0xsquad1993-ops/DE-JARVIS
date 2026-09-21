@@ -1,0 +1,12 @@
+customer_id,customer_name,city,email,age,annual_income
+1001,Arun Kumar,Bangalore,arun@example.com,29,65000
+1002,Priya Sharma,Chennai,priya@example.com,31,72000
+1003,Rahul Das,Hyderabad,rahul@example.com,27,58000
+1004,Sneha Rao,Bangalore,sneha@example.com,35,81000
+1005,Vikram Singh,Mumbai,vikram@example.com,42,93000
+1006,Meena Iyer,Chennai,,30,67000
+1007,Karthik Raj,Pune,karthik@example.com,26,54000
+1008,Divya Nair,Kochi,divya@example.com,33,76000
+1009,Suresh Babu,Bangalore,suresh@example.com,39,88000
+1010,Anitha Devi,Delhi,anitha@example.com,28,61000
+1010,Anitha Devi,Delhi,anitha@example.com,28,61000
